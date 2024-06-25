@@ -1,8 +1,7 @@
 import Navbar from "./Navbar.js";
-import "./App.css";
 
-function App() {
+function Navbar() {
   return <Navbar></Navbar>;
 }
 
-export default App;
+export default Navbar;
